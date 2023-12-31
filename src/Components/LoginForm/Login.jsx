@@ -59,7 +59,7 @@ const Login = () => {
         
 
         <div className='forget-pass'>
-          <a href='#'>Forgot your Password?</a>
+          <a href=''>Forgot your Password?</a>
         </div>
       </form>
     </div>
